@@ -10,6 +10,6 @@ This is line from test branch
 This line is added to test new things
 tghhfkjskjflnlsj
 
-this line is added in rebase2
-
-this is new line added in rebase2
+This line is added to test rebase
+Rebase is good thing to do when you want to preserve whole branch history
+>>>>>>> 1455963 (testing rebase)
